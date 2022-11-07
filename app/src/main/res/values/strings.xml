@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="Musica">Mi Musica</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Ingrese">Ingrese cancion o artista</string>
+    <string name="image">ImageMusica</string>
+    <string name="imageaction">ImageAction</string>
+</resources>
